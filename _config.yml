@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:mariangelatricarico3@gmail.com"
+      url: "mailto:mariangelatricarico3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/MariangelaTric3"
     - label: "LinkedIn"
-      icon: "fa-linkedin-square"
+      icon: "fab fa-linkedin-square"
       url: "https://www.linkedin.com/in/mariangela-tricarico/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

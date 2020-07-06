@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Mariangela Tricarico"
-  avatar           :  "/mariangelatricarico.github.io/photo_2020-06-08 10.56.22"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Naples, Italy"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mariangelatricarico3@gmail.com"
+      # url: "mailto:mariangelatricarico3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-facebook-square"
       #url:  "https://www.linkedin.com/in/mariangela-tricarico/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

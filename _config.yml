@@ -10,7 +10,7 @@ t# Welcome to Jekyll!
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                   : "minimal-mistakes-jekyll"
+#theme                   : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mariangela Tricarico"
-  avatar           :  "mariangelatricarico.github.io/photo_2020-06-08 10.56.22"
+  avatar           :  "/mariangelatricarico.github.io/photo_2020-06-08 10.56.22"
   bio              : "I am an **amazing** person."
   location         : "Naples, Italy"
   email            :
@@ -126,7 +126,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      url:  "https://www.linkedin.com/in/mariangela-tricarico/"
+      #url:  "https://www.linkedin.com/in/mariangela-tricarico/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:

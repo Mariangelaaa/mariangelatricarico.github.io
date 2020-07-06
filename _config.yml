@@ -94,20 +94,20 @@ analytics:
 # Site Author
 author:
   name             : "Mariangela Tricarico"
-  avatar           : "/Desktop/Backup Mac/Desktop/photo_2020-06-08 10.56.22"
+  avatar           : # "/Desktop/Backup Mac/Desktop/photo_2020-06-08 10.56.22"
   bio              : "I am an **amazing** person."
   location         : "Naples, Italy"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:mariangelatricarico3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/MariangelaTric3"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,9 +124,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url:  "https://www.linkedin.com/in/mariangela-tricarico/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
